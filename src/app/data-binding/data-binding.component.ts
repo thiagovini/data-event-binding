@@ -14,7 +14,7 @@ export class DataBindingComponent implements OnInit {
   urlImage = 'https://t.ctcdn.com.br/8FplhVkDQdAatiUcehCimgkGJlI=/512x288/smart/i257652.jpeg';
 
   getValor(){
-    return 1;
+    return 2;
   }
 
   getCurtirCurso(){
